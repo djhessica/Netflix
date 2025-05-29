@@ -36,3 +36,27 @@ ul{
 .main-nav ul li a:hover{
     color: #b3b3b3;
 }
+.user-actions{
+    display: flex;
+    align-items: center;
+}
+.user-actions a{
+    font-size: 1.2em;
+    margin-left: 20px;
+} 
+.user-actions a:hover{
+    color: #b3b3b3;
+}
+.footer{
+    bottom: 0%;
+    width: 100%;
+    background-color: rgba(13, 8, 8,0.8);
+    color: #e5e5e5;
+    text-align: center;
+    padding: 20px 0;
+    position: relative;
+    top: 0%;
+    font-size: 0.8em;
+    clear: both;
+    margin-top: 20px;
+}       
